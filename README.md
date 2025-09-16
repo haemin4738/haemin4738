@@ -49,7 +49,7 @@ Fullstack Developer • Java / Spring Boot / REST API / React
 
 ## 📫 연락처
 
-[![Velog](https://img.shields.io/badge/velog.io/@haemin4738/posts-FF6600?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@haemin4738/posts)
+[![Velog](https://img.shields.io/badge/velog.io/@haemin4738-FF6600?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@haemin4738/posts)
 [![Gmail](https://img.shields.io/badge/Gmail-leeheamin12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leeheamin12@gmail.com)
 [![NaverMail](https://img.shields.io/badge/NaverMail-yuju@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yuju@naver.com)
 
