@@ -37,12 +37,18 @@
 
 ---
 
-## 📂 하이라이트 프로젝트
+ 📂 하이라이트 프로젝트
 
-* **프로젝트 이름 1** — 간단한 설명. (역할, 사용 기술)
-* **프로젝트 이름 2** — 간단한 설명. (역할, 사용 기술)
-
-(원하면 여기 각 프로젝트에 대한 링크/배지/스크린샷을 넣어드릴게요.)
+- **TodoList API 서버**  
+  Spring Boot + JPA 기반 REST API 서버  
+  - 역할: 백엔드 설계 및 구현  
+  - 사용 기술: 
+    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  - 스크린샷:
+    ![TodoList 스크린샷](https://raw.githubusercontent.com/leehaemin/todolist-api/main/screenshot.png)
+  - [GitHub 링크](https://github.com/leehaemin/todolist-api)
 
 ---
 
