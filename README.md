@@ -2,7 +2,8 @@
 
 Fullstack Developer • Java / Spring Boot / REST API / React
 
-안녕하세요! 안정적이고 확장 가능한 서버 애플리케이션과 인터랙티브한 웹 프론트엔드를 모두 다루는 풀스택 개발자를 지향합니다. 효율적인 데이터 처리와 견고한 아키텍처, 그리고 직관적인 사용자 경험을 만드는 데 관심이 많습니다.
+안녕하세요!  안정적이고 확장 가능한 서버 애플리케이션과  인터랙티브한 웹 프론트엔드를 모두 다루는  풀스택 개발자를 지향합니다.  
+
 ---
 
 ## 🔭 현재 하는 일
@@ -38,9 +39,10 @@ Fullstack Developer • Java / Spring Boot / REST API / React
 
 ## 📈 GitHub 통계
 
-* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white) `leeheamin12@gmail.com`
-* ![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge\&logo=naver\&logoColor=white) `leeheamin@naver.com`
-* ![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge\&logo=velog\&logoColor=white) `https://velog.io/@haemin4738/posts`
+* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white) (`leeheamin12@gmail.com`)
+* ![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge\&logo=naver\&logoColor=white) (`yuju@naver.com`)
+* [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](`https://velog.io/@haemin4738/posts`)
+
 
 
 ---
