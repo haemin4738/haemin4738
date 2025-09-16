@@ -48,16 +48,12 @@
 
 ## 📈 GitHub 통계
 
-```
-![해민의 GitHub stats](https://github-readme-stats.vercel.app/api?username=leehaemin&show_icons=true&theme=radical)](https://github.com/leehaemin)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehaemin&layout=compact)](https://github.com/leehaemin)
 <!-- GitHub Readme Stats -->
-[!
+[![해민의 GitHub stats](https://github-readme-stats.vercel.app/api?username=leehaemin&show_icons=true&theme=radical)](https://github.com/leehaemin)
 
 <!-- Top Languages -->
-[
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehaemin&layout=compact)](https://github.com/leehaemin)
+
 
 ---
 
