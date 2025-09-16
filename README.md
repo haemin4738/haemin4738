@@ -37,21 +37,6 @@
 
 ---
 
- 📂 하이라이트 프로젝트
-
-- **TodoList API 서버**  
-  Spring Boot + JPA 기반 REST API 서버  
-  - 역할: 백엔드 설계 및 구현  
-  - 사용 기술: 
-    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  - 스크린샷:
-    ![TodoList 스크린샷](https://raw.githubusercontent.com/leehaemin/todolist-api/main/screenshot.png)
-  - [GitHub 링크](https://github.com/leehaemin/todolist-api)
-
----
-
 ## 📈 GitHub 통계
 
 <!-- GitHub Readme Stats -->
