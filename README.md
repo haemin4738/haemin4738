@@ -39,9 +39,9 @@ Fullstack Developer • Java / Spring Boot / REST API / React
 
 ## 📈 GitHub 통계
 
-* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white) (`leeheamin12@gmail.com`)
-* ![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge\&logo=naver\&logoColor=white) (`yuju@naver.com`)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@heamin4738)
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](`leeheamin12@gmail.com`)
+* [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge\&logo=naver\&logoColor=white)](`yuju@naver.com`)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@haemin4738/posts)
 
 
 
