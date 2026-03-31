@@ -1,12 +1,21 @@
 # 안녕하세요! 이해민입니다.
 
-안녕하세요! 
+새로운 기술을 학습하는 데 그치지 않고, 이를 실제 문제 해결에 적용하며 성장하는 개발자를 지향합니다.
+
+프로젝트를 진행하며 성능 저하, 배포 오류, 인증 문제 등 다양한 이슈를 경험했고, 단순 기능 구현을 넘어 **문제의 원인을 분석하고 구조적으로 해결하는 과정**에 집중해왔습니다.
+
+특히 Redis 캐싱, Elasticsearch 검색 구조 개선, 부하 테스트 기반 성능 개선 등을 직접 적용하며 사용자 경험과 시스템 안정성을 함께 개선하는 개발의 가치를 체감했습니다.
+
+앞으로도 데이터 흐름과 시스템 구조를 이해하고, 근거 있는 선택을 할 수 있는 개발자로 성장하고자 합니다.
 
 ---
 
-## 🔭 현재 하는 일
+## 🔭 현재 공부하는 것
 
-* 프로그래머스 AIBE 3기 수강하며 Spring + NEXT.js 프로젝트를 준비하며 학습 중입니다.
+* Spring Boot 기반으로 실제 서비스 프로젝트를 개발하며 백엔드 역량을 키우고 있습니다.
+* Redis 캐싱, Elasticsearch 검색 구조 등 성능 개선 경험을 바탕으로 관련 기술을 계속 학습 중입니다.
+* Next.js를 활용한 프론트엔드도 함께 공부하며 전체 서비스 흐름을 이해하려고 노력하고 있습니다.
+* Node.js를 활용한 서버 개발도 추가로 학습하며 백엔드 기술 스택을 확장하고 있습니다.
 
 ## 🧰 기술 스택
 
@@ -34,19 +43,8 @@
 
 ---
 
-## 📈 GitHub 통계
-
-[![해민의 GitHub stats](https://github-readme-stats.vercel.app/api?username=haemin4738&show_icons=true&theme=radical)](https://github.com/haemin4738)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haemin4738&layout=compact)](https://github.com/haemin4738)
-
-
-
-
----
-
 ## 📫 연락처
 
-[![Velog](https://img.shields.io/badge/velog.io/@haemin4738-FF6600?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@haemin4738/posts)
 [![Gmail](https://img.shields.io/badge/Gmail-leeheamin12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leeheamin12@gmail.com)
 [![NaverMail](https://img.shields.io/badge/NaverMail-yuju@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yuju@naver.com)
 
